@@ -26,3 +26,5 @@ Jon is a data warehousing professional, with extensive experience in a range of 
 
 Specialities: Handling complex requirements and using established techniques with novel approaches. A strong lateral thinker, with exceptional data modeling skills. Experienced in developing code, ETL processes, data integration, project management and data warehouse development techniques. Extensive hands on experience in BusinessObjects, Oracle, Microsoft and SuperSTAR statistical reporting, as well as in JavaScript, Python, Perl, Java, and C/C++ programming languages.
 
+## Personal Life
+
